@@ -12,3 +12,5 @@ f) 2,10, 12, 16, 17, 18, 19, **200** (Numeros que começam com a letra D)\
 4) Considerando a temperatura gerada pela lampada, deixaria duas delas ligadas, uma por mais tempo que a outra. Com isso saberia qual interruptor seria de cada lampada, pois a mais quente seria a que ficou ligada por mais tempo, a morna a que ficou ligada por menos tempo e a fria seria a que não liguei. 
 
 5)  Arquivo chamado string.html(entrada de dados) e numeroReverso.php (processamento de dados)
+
+link dos codigos em execução: [Antonystar-Ribeirao](https://antonystar.com/desafioCod/ribeiraoPreto/)
